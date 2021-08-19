@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## りあクト！ハンズオン
+りあクト！[https://oukayuka.booth.pm/]に倣ってハンズオン
+
 ## Available Scripts
 
 In the project directory, you can run:
